@@ -9,4 +9,4 @@ This is absolutely free public domain license for absolutely free public domain 
 Anyone is free to do anything with ANUS-licensed works and ANUS License for any purpose and in any form.
 
 
-*No copyright, all rights are not reserved.
+*No copyright, all rights are not reserved.*
