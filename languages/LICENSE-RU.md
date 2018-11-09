@@ -1,6 +1,6 @@
 # ANARHIC NICE ULTRA SUPER LICENSE
 (Более известна/неизвестна, как : ANUS License, Anus Public License, ANUS, Public ANUS)  
-Версия 1, 09.11.2018
+Версия 1, 09.11.2018  
 Перевод лицензии ANUS на русский язык.
 
 ## ВВЕДЕНИЕ :
